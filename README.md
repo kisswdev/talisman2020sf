@@ -1,8 +1,5 @@
 Talisman
 talisman online clean server files
-And download ssh secure shell (this supprt file transfer too ) from here William & Mary - SSH Secure Shell Client
-
-Buy VPS From Vultr.com
 
 Get Ubuntu 14.04 32 bit then follw this instructions
 
@@ -83,7 +80,7 @@ screen -d -m ./2
 This will show nothing but wait
 
 screen -d -m ./3
-
-This will show nothing but your talisman server is online and go play
-
-if you like my help then donate as you like on paypal Donate Me And Support me For More Details Pm Me At Himesh Patel
+Download from here :
+https://www.4shared.com/s/fS_wptWB7ea
+https://drive.google.com/open?id=10c6-EdX7c5mR58HryA5zo0cbYjUtmwfg
+https://yadi.sk/d/N2TfltxsF2om-A
